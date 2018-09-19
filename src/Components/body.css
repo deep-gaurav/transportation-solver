@@ -1,0 +1,40 @@
+
+.main{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: auto;
+}
+.bodymain{
+    width: 100%;
+    height: 88%;
+    overflow: auto;
+}
+.headbuts{
+    border-color: #222222;
+    border-style: solid;
+    height: 10%;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.tablein{
+    width: 100%;
+    height: 100%;
+}
+.tableinh{
+    width: 100%;
+}
+.inputtable{
+    height: 88%;
+}
+.tablecell{
+
+}
+.tablehead{
+    border-collapse: collapse;
+}
+
+.relmain{
+    position: relative;
+    height: 100%;
+}
