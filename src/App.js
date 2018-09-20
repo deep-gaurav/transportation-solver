@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Main from './Components/body'
+import TitleBar from './Material/main'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Main/>
+        <TitleBar/>
+
       </div>
     );
   }
