@@ -4,8 +4,8 @@ This is a web app made in Reactjs with Material UI to solve balance transportati
 
 
 ### TODO
-[x] Implement North West Method
-[ ] Implement Least Count Method
-[ ] Implement Vogels Method
+- [x] Implement North West Method
+- [ ] Implement Least Count Method
+- [ ] Implement Vogels Method
 
-[ ] Implement MODI Method
+- [ ] Implement MODI Method
